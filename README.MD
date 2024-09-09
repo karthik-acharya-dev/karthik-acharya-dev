@@ -32,17 +32,6 @@ I'm Karthik Acharya, a passionate Full Stack Developer with a strong background 
 - **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat&logo=api&logoColor=white)
 
-## 🌟 Projects
-
-### [Class Crew](https://github.com/yourusername/ClassCrew)
-A platform designed to manage classroom activities efficiently. Developed with Python and React.js, Class Crew aims to simplify the process of classroom management for teachers and students alike.
-
-### [Coffee Day](https://github.com/yourusername/CoffeeDay)
-A website developed using React.js to provide users with information and updates about Coffee Day, including events, offers, and new products.
-
-### [Vibe Verse](https://github.com/yourusername/VibeVerse)
-An innovative platform designed to provide users with real-time updates and immersive experiences related to their interests. Emphasizes dynamic content and seamless interactions through efficient use of the Fetch API.
-
 ## 🎓 Education
 
 - **Bachelor of Commerce with Computer Application** - Mangalore University (Sep 2021 - Jul 2024)
@@ -59,7 +48,7 @@ An innovative platform designed to provide users with real-time updates and imme
 ## 💼 Experience
 
 - **Intern at Timechain Labs** (Jul 2024 - Present)
-- **Intern at PyGarden** (Jul 2024 - Present)
+
 
 ## 🌐 Languages
 
@@ -71,7 +60,7 @@ An innovative platform designed to provide users with real-time updates and imme
 
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
-
+- [Discord]()
 ## ✉️ Contact Me
 
 Feel free to reach out to me via email at [karthik46g@gmail.com](mailto:karthik46g@gmail.com) or call me at +91 9632864113.
