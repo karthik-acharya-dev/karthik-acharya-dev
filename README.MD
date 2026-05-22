@@ -98,14 +98,6 @@ Production-ready SaaS platform for PG/property management with subscription mone
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Commerce with Computer Applications  
-**Mangalore University**  
-📅 Sep 2021 – Jul 2024
-
----
-
 ## 🌍 Connect With Me
 
 <p align="left">
