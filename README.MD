@@ -1,72 +1,90 @@
-<h1 align="center">Welcome to Karthik Acharya's GitHub Profile! 👋</h1>
+Hi there, I'm Karthik Acharya 👋
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;Always+Learning+New+Technologies" alt="Typing SVG" /> </p> <p align="center"> <a href="https://github.com/karthik-acharya-dev"> <img src="https://img.shields.io/github/followers/karthik-acharya-dev?label=Followers&style=social" /> </a> <a href="https://www.linkedin.com/in/karthik-acharya-792719226"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:karthik46g@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /> </a> <a href="https://portfolio-react-next-js-zeta.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" /> </a> </p>
+🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Front+End+Developer;Enthusiastic+Coder;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+I'm a Full Stack Software Developer passionate about building scalable web and mobile applications with modern technologies.
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:karthik46g@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+💼 Currently working as Junior Software Engineer at Saanvi Technologies
+📱 Building real-world SaaS and mobile applications
+⚡ Skilled in React, React Native, TypeScript, Node.js, and modern backend systems
+🔥 Interested in product development, scalable architectures, and UI/UX
+🌱 Currently improving backend architecture and system design skills
+🎯 Goal: Become a strong Software Development Engineer (SDE)
+🛠️ Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,svelte" /> </p>
+Backend & Database
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres,supabase" /> </p>
+Mobile Development
+<p> <img src="https://skillicons.dev/icons?i=react" /> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode" /> </p>
+💼 Experience
+Junior Software Engineer — Saanvi Technologies
 
-## 🌟 About Me
+📍 Udupi, India | Nov 2024 – Present
 
-I'm Karthik Acharya, a passionate Full Stack Developer with a strong background in front-end development and proficiency in various programming languages and frameworks. I'm currently focusing on enhancing my skills and working on exciting projects that involve cutting-edge technologies.
+Developed and maintained full-stack web and mobile applications
+Built scalable REST APIs using Node.js and PostgreSQL
+Worked with Firebase and Supabase backend services
+Collaborated with UI/UX teams and production deployments
+Used Swagger and Postman for API testing/documentation
+Open Source Developer Intern — Timechain Labs
 
-- **Name:** Karthik Acharya
-- **Email:** [karthik46g@gmail.com](mailto:karthik46g@gmail.com)
-- **Phone:** +91 9632864113
+📍 Jul 2024 – Sep 2024
 
-## 🚀 Skills
+Contributed to blockchain-based real-world projects
+Gained hands-on experience in smart contracts and distributed systems
+🚀 Featured Projects
+🏠 GuestBook+ — SaaS PG Management Platform
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-- **Front-end:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Back-end:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat&logo=api&logoColor=white)
+A production-ready SaaS platform for PG/property management with subscription monetization.
 
-## 🎓 Education
+Features
+📱 React Native mobile application
+💳 Razorpay payment integration
+🔔 WhatsApp reminders using MSG91
+📊 Real-time admin dashboard
+🔐 Firebase OTP authentication
+☁️ Deployed using Vercel
 
-- **Bachelor of Commerce with Computer Application** - Mangalore University (Sep 2021 - Jul 2024)
-- **II Pre-University College** (Jun 2019 - Apr 2021)
+Tech Stack:
+React Native React.js Firebase Node.js PostgreSQL Razorpay
 
-## 📜 Certifications
+🚘 770Driver
 
-- **Full Stack Web Development** - Udemy
-- **The Complete JavaScript** - Udemy
-- **React and Redux Complete Course** - KG Coding
-- **Python Programming** - Infosys Springboard
-- **Hands-On React Applications using React Hooks** - Infosys Springboard
+Luxury transportation booking platform with automated booking management.
 
-## 💼 Experience
+Tech Stack:
+React.js Tailwind CSS
 
-- **Intern at Timechain Labs** (Jul 2024 - Present)
+📦 Sharp Ply ERP
 
+ERP platform for inventory, suppliers, employee management, and currency modules.
 
-## 🌐 Languages
+Tech Stack:
+React.js TypeScript Node.js PostgreSQL
 
-- **English:** Intermediate
-- **Kannada:** Fluent
-- **Hindi:** Intermediate
+📱 StyleBox PWA
 
-## 📫 Connect with Me
+Progressive Web App for QR-based sanitary product information and management.
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Discord]()
-## ✉️ Contact Me
+Tech Stack:
+React.js Styled Components PWA
 
-Feel free to reach out to me via email at [karthik46g@gmail.com](mailto:karthik46g@gmail.com) or call me at +91 9632864113.
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik-acharya-dev&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-acharya-dev&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🏆 Achievements
+🚀 Built and launched a production-ready SaaS platform
+📱 Developed cross-platform mobile applications
+🔥 Experience with real-world payment integrations
+🌐 Worked on scalable frontend and backend architectures
+🎓 Education
+Bachelor of Commerce with Computer Applications
 
----
+Mangalore University
+📅 Sep 2021 – Jul 2024
 
-Thank you for visiting my GitHub profile. I'm excited to connect with fellow developers and collaborate on interesting projects. Let's build something amazing together!
-
-
+🌍 Connect With Me
+<p align="left"> <a href="mailto:karthik46g@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/karthik-acharya-792719226"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/karthik-acharya-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://portfolio-react-next-js-zeta.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="center"> ⭐️ From <b>Karthik Acharya</b> </p>
