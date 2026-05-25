@@ -62,7 +62,7 @@ I'm a Full Stack Software Developer passionate about building scalable web and m
 
 ## 💼 Experience
 
-### Junior Software Engineer — Saanvi Technologies  
+### Software Engineer 1 — Saanvi Technologies  
 📍 Udupi, India | Nov 2024 – Present
 
 - Developed and maintained full-stack web and mobile applications
