@@ -24,19 +24,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Full Stack Software Developer passionate about building scalable web and mobile applications using modern technologies.
 
-- 💼 Junior Software Engineer at Saanvi Technologies
-- 📱 Building real-world SaaS and mobile applications
-- ⚡ Skilled in React, React Native, TypeScript, Node.js, and backend systems
-- 🔥 Interested in scalable products, UI/UX, and system design
-- 🌱 Constantly learning and improving as a developer
+- Junior Software Engineer at Saanvi Technologies
+- Building real-world SaaS and mobile applications
+- Skilled in React, React Native, TypeScript, Node.js, and backend systems
+- Interested in scalable products, UI/UX, and system design
+- Constantly learning and improving as a developer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -60,7 +60,7 @@ I'm a Full Stack Software Developer passionate about building scalable web and m
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Software Engineer 1 — Saanvi Technologies  
 📍 Udupi, India | Nov 2024 – Present
@@ -79,26 +79,26 @@ I'm a Full Stack Software Developer passionate about building scalable web and m
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🏠 GuestBook+ — SaaS PG Management Platform
+### GuestBook+ — SaaS PG Management Platform
 
 Production-ready SaaS platform for PG/property management with subscription monetization.
 
 #### Features
-- 📱 React Native mobile application
-- 💳 Razorpay payment integration
-- 🔔 WhatsApp reminders using MSG91
-- 📊 Real-time admin dashboard
-- 🔐 Firebase OTP authentication
-- ☁️ Deployed using Vercel
+-  React Native mobile application
+-  Razorpay payment integration
+-  WhatsApp reminders using MSG91
+-  Real-time admin dashboard
+-  Firebase OTP authentication
+-  Deployed using Vercel
 
 #### Tech Stack
 `React Native` `React.js` `Firebase` `Node.js` `PostgreSQL` `Razorpay`
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:karthik46g@gmail.com">
